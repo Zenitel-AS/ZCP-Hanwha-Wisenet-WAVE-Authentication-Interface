@@ -7,10 +7,10 @@ It's assumed that you have already created a Zenitel Link account in Zenitel Con
 
 Import the Node-RED flow into Node-RED. Edit the Setup Details node and update with the required settings
 
-Connect Pro IP Address
-Connect Pro Zenitel Link Username
-Connect Pro Zenitel Link Password
-WAVE IP Address
-WAVE Username
-WAVE Password
+* Connect Pro IP Address
+* Connect Pro Zenitel Link Username
+* Connect Pro Zenitel Link Password
+* WAVE IP Address
+* WAVE Username
+* WAVE Password
 Deploy the flow and it will obtain the bearer tokens and begin scraping the WAVE Events for the word Zenitel anywhere in the Title.
